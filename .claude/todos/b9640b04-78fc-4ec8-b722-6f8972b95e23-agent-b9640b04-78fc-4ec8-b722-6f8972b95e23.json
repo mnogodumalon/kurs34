@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create design brief for Kursverwaltungssystem",
+    "status": "completed",
+    "activeForm": "Creating design brief"
+  },
+  {
+    "content": "Create LivingApps data model (5 apps)",
+    "status": "completed",
+    "activeForm": "Creating LivingApps data model"
+  },
+  {
+    "content": "Generate TypeScript types and services",
+    "status": "completed",
+    "activeForm": "Generating TypeScript"
+  },
+  {
+    "content": "Set up design system (tailwind, index.css)",
+    "status": "completed",
+    "activeForm": "Setting up design system"
+  },
+  {
+    "content": "Build dashboard UI with full CRUD",
+    "status": "completed",
+    "activeForm": "Building dashboard UI"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
